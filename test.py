@@ -5,5 +5,11 @@ class Test(object):
         self.sergio3 = 2
         self.b1 = 1
 
+    def method(self):
+        return 1
+
+class ClS:
+    pass
+
 
 
