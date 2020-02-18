@@ -1,4 +1,7 @@
-a = 1
-b = 2
-c = 3
+class Test(object):
+    def __init__(self):
+        self.a = 1
+        self.sergio2 = 2
+
+
 
