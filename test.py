@@ -3,6 +3,7 @@ class Test(object):
         self.a = 1
         self.sergio2 = 2
         self.sergio3 = 2
+        self.b1 = 1
 
 
 
